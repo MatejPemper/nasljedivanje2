@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\nasljedivanje2\nasljedivanje2\bin\Debug\nasljedivanje2.exe.config
+C:\Users\ucenik\source\repos\nasljedivanje2\nasljedivanje2\bin\Debug\nasljedivanje2.exe
+C:\Users\ucenik\source\repos\nasljedivanje2\nasljedivanje2\bin\Debug\nasljedivanje2.pdb
+C:\Users\ucenik\source\repos\nasljedivanje2\nasljedivanje2\obj\Debug\nasljedivanje2.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\nasljedivanje2\nasljedivanje2\obj\Debug\nasljedivanje2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\nasljedivanje2\nasljedivanje2\obj\Debug\nasljedivanje2.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\nasljedivanje2\nasljedivanje2\obj\Debug\nasljedivanje2.exe
+C:\Users\ucenik\source\repos\nasljedivanje2\nasljedivanje2\obj\Debug\nasljedivanje2.pdb
